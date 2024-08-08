@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container-fluid{
+  background-color: deeppink;
+}
+
+h1{
+  text-align: center;
+  color:deeppink !important;
+}
+
+.meow{
+  width:30%;
+}
+
+h2{
+  text-align: center;
+  color:deeppink !important;
+}
+
+body{
+  background-color: grey !important;
+}
